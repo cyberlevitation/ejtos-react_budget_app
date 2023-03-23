@@ -1,0 +1,6 @@
+.button-style {
+    border: 'none' !important;
+    color : 'white' !important;
+    border-radius: '50%' !important;
+    background-color: green;
+}
